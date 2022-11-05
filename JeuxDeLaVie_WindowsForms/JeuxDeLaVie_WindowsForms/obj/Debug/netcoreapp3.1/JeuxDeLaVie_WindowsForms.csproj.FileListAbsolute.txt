@@ -1,0 +1,17 @@
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\bin\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.exe
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\bin\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.deps.json
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\bin\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.runtimeconfig.json
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\bin\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.runtimeconfig.dev.json
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\bin\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.dll
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\bin\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.pdb
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.csproj.AssemblyReference.cache
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.Properties.Resources.resources
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.csproj.GenerateResource.cache
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.AssemblyInfoInputs.cache
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.AssemblyInfo.cs
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.csproj.CoreCompileInputs.cache
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.dll
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.pdb
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.genruntimeconfig.cache
+D:\Cours Cnam-Enjmin\2. USRS46\usrs46\JeuxDeLaVie_WindowsForms\JeuxDeLaVie_WindowsForms\obj\Debug\netcoreapp3.1\JeuxDeLaVie_WindowsForms.Form1.resources

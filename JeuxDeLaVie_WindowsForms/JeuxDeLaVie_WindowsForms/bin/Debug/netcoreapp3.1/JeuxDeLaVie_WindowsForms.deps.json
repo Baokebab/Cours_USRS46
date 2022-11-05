@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JeuxDeLaVie_WindowsForms/1.0.0": {
+        "runtime": {
+          "JeuxDeLaVie_WindowsForms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JeuxDeLaVie_WindowsForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
