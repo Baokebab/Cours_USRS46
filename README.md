@@ -20,6 +20,7 @@ Vous trouverez l'énoncé de chaque projet en pdf dans les dossiers respectifs (
 # AFFICHAGE             
 
 Windows Forms n'est pas fait pour être responsive sur tout type de résolution d'écran. Possible que cela ne soit pas très beau si vous essayer sur votre écran
+
 NB : Pour faire fonctionner Minivilles, déplacer les 2 dossiers Images et SFX dans votre dossier bin\Debug\netcoreapp
 
 QUOC-BAO NGUYEN
